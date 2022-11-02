@@ -1,0 +1,10 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/hero"]
+	path = themes/hero
+	url = git@github.com:zerostaticthemes/hugo-hero-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:beand/grenzenlose-energie.git
+	branch = gh-pages
